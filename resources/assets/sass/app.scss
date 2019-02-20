@@ -1,0 +1,24 @@
+//bootswatch var
+@import "~bootswatch/dist/materia/variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+//bootswatch
+@import "~bootswatch/dist/materia/bootswatch";
+
+//font awesome
+@import "~font-awesome/scss/font-awesome";
+
+//mapbox
+@import "~mapbox-gl/dist/mapbox-gl.css";
+
+//mapbox geocoder
+@import "~@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css";
+
+//mapbox direction
+@import "~@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css";
+
+//noty
+@import "~noty/src/noty.scss";
+@import "~noty/src/themes/mint.scss";

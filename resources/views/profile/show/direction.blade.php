@@ -1,0 +1,1 @@
+<direction :user="{{$user}}"></direction>
