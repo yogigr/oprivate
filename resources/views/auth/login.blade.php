@@ -46,9 +46,6 @@
                     <a href="{{ url('login/google') }}" class="btn btn-danger btn-sm">
                         <i class="fa fa-google fa-2x"></i>
                     </a>
-                    <a href="{{ url('login/github') }}" class="btn bg-dark text-white btn-sm">
-                        <i class="fa fa-github fa-2x"></i>
-                    </a>
                 </p>
             </div>
         </div>
